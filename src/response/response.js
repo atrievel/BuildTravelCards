@@ -157,6 +157,26 @@ const response = [
         category: 'World Heritage Site',
         copy:
             'Meet the largest and oldest concentration of prehistoric sites in the Americas. Sítio do Meio has many prehistoric paintings.'
+    },
+    {
+        name: 'Tour Pittsburgh - the City of Bridges',
+        image: 'pittsburgh.jpg',
+        dateFrom: 'Oct 11th 2019',
+        dateTo: 'Oct 13th 2019',
+        guests: 2,
+        category: 'Weekend Trip',
+        copy:
+            `Whether you're visiting Pittsburgh for the first time, or have lived here all your life, these tours -- both guided and unguided -- will help you experience a Pittsburgh you may not expect.`
+    },
+    {
+        name: 'Testing image non-existent',
+        image: 'bad-image.gif',
+        dateFrom: 'Oct 11th 2019',
+        dateTo: 'Oct 20th 2019',
+        guests: 4,
+        category: 'Bad data',
+        copy:
+            'This is just a test of bad data.'
     }
 ]
 
